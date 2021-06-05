@@ -27,6 +27,8 @@
 #define PRODUCT         K556
 #define DESCRIPTION     K556 Devarajas
 
+#define RGBLIGHT_SLEEP
+
 /* key matrix size */
 #define MATRIX_ROWS 6
 #define MATRIX_COLS 21
